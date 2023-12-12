@@ -1,0 +1,22 @@
+db_data
+wordpress
+plugins
+node_modules
+.nuxt
+nuxt.d.ts
+.output
+.env
+.env.local
+.DS_Store
+*.log*
+.nitro
+.cache
+dist
+.vscode
+# Local Netlify folder
+.netlify
+**/*.md
+**/LICENSE
+wordpress
+plugins
+db_data
